@@ -1,5 +1,3 @@
-# AmazonCloneusing_html-css
-
 # Amazon Clone using Html+css
 
 In this I project I've used html and css to make Clone of Amazon home page
